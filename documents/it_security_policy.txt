@@ -1,0 +1,3 @@
+Employees must not share their company login credentials with anyone.
+All laptops must have disk encryption enabled before use.
+Passwords must be changed every 90 days and cannot repeat the last 3 passwords.
